@@ -56,5 +56,3 @@ This tool is for **educational and legal use only**. Do not use it on websites y
 
 Made with ❤️ by Keisha 🚀
 
-```
-
